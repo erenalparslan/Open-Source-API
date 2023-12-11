@@ -1,4 +1,5 @@
-Tom	30	New York
-Rob	27	Washington
-John	25	London
-Ali	21	Ankara
+name,age,city
+Tom,30,New York
+Rob,27,Washington
+John,25,London
+Ali,21,Ankara
